@@ -24,7 +24,7 @@ Flutter, Dart, GetX, BLoC, Firebase, Agora, Stripe, Laravel, Spring Boot, JWT, G
 
 
 ## 💼 Professional Experience
-Independent Flutter Developer | 2022 – Present
+Independent Flutter Developer | 2024 – Present
 - Reduced UI latency by 30%
 - Decreased maintenance time by 40%
 - 99.9% data consistency
